@@ -64,7 +64,7 @@ spek-cli [options] filename_or_directory
 - **Process all files in a directory and save collage screenshot:**
 
     ```sh
-    spek-cli -save ""C:\Users\Shree\Desktop\demo"
+    spek-cli -save "C:\Users\Shree\Desktop\demo"
     ```
 
 - **Process all files in a directory and copied collage screenshot to the clipboard:**
@@ -72,15 +72,17 @@ spek-cli [options] filename_or_directory
     ```sh
     spek-cli -clipboard "C:\Users\Shree\Desktop\demo"
     ```
+  
+
+## Demo
+
+[https://github.com/VoidVampire/spek-cli/assets/80760499/30f695ba-87ef-424e-80f2-87bee7540af6](https://github.com/VoidVampire/spek-cli/assets/80760499/30f695ba-87ef-424e-80f2-87bee7540af6)
 
 ## Todo
 
 1. Create a single window while opening all files in a directory.
 2. Higher precision in taking automated screenshots.
-
-## Demo
-[https://github.com/VoidVampire/spek-cli/assets/80760499/30f695ba-87ef-424e-80f2-87bee7540af6](https://github.com/VoidVampire/spek-cli/assets/80760499/30f695ba-87ef-424e-80f2-87bee7540af6)
-
+   
 ## License
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
