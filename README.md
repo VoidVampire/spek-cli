@@ -38,8 +38,9 @@ spek-cli [options] filename_or_directory
 
 ### Options
 
-- `-save`: Saves a screenshot in the directory of the file (1 single collage of all individual spectrograms screenshots)
-- `-clipboard`: Copies screenshot to the clipboard. 
+- `-save`: Saves a screenshot in the directory of the file.
+- `-clipboard`: Copies screenshot to the clipboard.
+If a directory is specified with either options, then it will create a collage of all screenshots.
 
 ### Examples
 
