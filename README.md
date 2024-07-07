@@ -83,6 +83,7 @@ If a directory is specified with either options, then it will create a collage o
 
 1. Create a single window while opening all files in a directory.
 2. Higher precision in taking automated screenshots.
+3. Fix the need of `timeout /t 2 /nobreak > nul` every few commands for directoty clipping.
    
 ## License
 
